@@ -4,4 +4,4 @@
     -Запись результатов игры в файл
     -Чтение данных из файла и формирование таблицы рекордов
 
-https://github.com/Pofxe/SnakeGame/blob/master/1.PNG
+[Screanshots](https://github.com/Pofxe/SnakeGame/blob/master/1.PNG)
